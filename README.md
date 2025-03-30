@@ -1,6 +1,10 @@
 # microbit-demos-rust
 <PRE>
 clone of https://github.com/dtcristo/microbit-demos, esp. did build &amp; deployed snake game really.
+Environment:
+ a. micro:bit is V1.38(1.3B?) -> nrf51822 soc.
+ b. no j-link, dap(usb cmsis drive) only.
+ c. host pc is windows11(64bit x64)+WSL2(Ubuntu = rust build).
 
 Bellow are on bash of WSL2.
 1) git clone https://github.com/dtcristo/microbit-demos.git --recursive
