@@ -1,6 +1,6 @@
 # microbit-demos-rust
 <PRE>
-clone of https://github.com/dtcristo/microbit-demosf, esp. did build &amp; deployed snake game really.
+clone of https://github.com/dtcristo/microbit-demos, esp. did build &amp; deployed snake game really.
 
 Bellow are on bash of WSL2.
 1) git clone https://github.com/dtcristo/microbit-demos.git --recursive
