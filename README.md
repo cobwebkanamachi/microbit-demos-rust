@@ -14,9 +14,9 @@ Bellow are on bash of WSL2.
 9) on windows command prompt: ren snake snake.bin
 NOTICE: dap drive = if you connect micro:bit with pc via usb cable, then reveal drive of micro:bit.
 10) drop snake.bin into  dap drive.
+</PRE>
 <video src="[LINK](https://github.com/user-attachments/assets/49e9a070-156d-4d1b-b5b6-93b7438d4e8c)" controls="controls" style="max-width: 730px;"></video>
 <video src="[LINK](https://github.com/user-attachments/assets/dd40a7dc-dc96-48bf-be47-8dc90f26bf13
 )" controls="controls" style="max-width: 730px;"></video>
-
+<BR>
 Enjoy!
-</PRE>
