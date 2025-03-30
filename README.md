@@ -15,6 +15,8 @@ Bellow are on bash of WSL2.
 NOTICE: dap drive = if you connect micro:bit with pc via usb cable, then reveal drive of micro:bit.
 10) drop snake.bin into  dap drive.
 </PRE>
+<IMG src="https://github.com/cobwebkanamachi/microbit-demos-rust/blob/main/IMG_4090.gif">
+<IMG src="https://github.com/cobwebkanamachi/microbit-demos-rust/blob/main/IMG_4091.gif">
 
 <BR>
 Enjoy!
